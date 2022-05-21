@@ -7,4 +7,4 @@
 
 Popular Persons App.
 
-I used Provider state managments packge
+I am  use Provider state managments packge
